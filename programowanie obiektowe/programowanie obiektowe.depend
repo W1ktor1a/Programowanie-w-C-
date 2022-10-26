@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666800046 source:c:\users\es\desktop\c++\programowanie-w-c-\programowanie obiektowe\main.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+
