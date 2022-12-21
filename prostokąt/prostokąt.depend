@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668612822 source:c:\users\es\desktop\c++\programowanie-w-c-\prostok¹t\main.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+

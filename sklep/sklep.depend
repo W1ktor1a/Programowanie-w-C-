@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1669821320 source:c:\users\es\desktop\c++\programowanie-w-c-\sklep\src\item.cpp
+	"Item.h"
+
+1669821238 c:\users\es\desktop\c++\programowanie-w-c-\sklep\include\item.h
+	<iostream>
+

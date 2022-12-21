@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1669753677 source:c:\users\es\desktop\c++\programowanie-w-c-\quiz\src\question.cpp
+	"Question.h"
+
+1669753764 c:\users\es\desktop\c++\programowanie-w-c-\quiz\include\question.h
+	<iostream>
+

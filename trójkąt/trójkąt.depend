@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668616836 source:c:\users\es\desktop\c++\programowanie-w-c-\trójk¹t\main.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+
